@@ -1,2 +1,2 @@
-# csv_to_json
- Conversor de arquivos CSV (Excel) para JSON.
+# csv-to-json
+ Conversor de arquivos CSV para JSON.
